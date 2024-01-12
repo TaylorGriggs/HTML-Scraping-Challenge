@@ -2,10 +2,10 @@
 
 ## Background
   For this project, I was tasked with Two Parts:
-  Part 1: 
+  ### Part 1: 
     Scrape a given website of all the titles and preview text associated with a title article and store it into a dictionary.
 
-  Part 2:
+  ### Part 2:
     Scrape a given Mars website table and store the information into a Pandas Data Frame.
     Then analyze the Data Frame to determine the following:
     - How many months exist on Mars? 
